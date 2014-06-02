@@ -68,8 +68,11 @@
       <version>4.8.2</version>
       <scope>test</scope>
     </dependency>
-
-
   </dependencies>
 
+      <scm>
+        <developerConnection>scm:git:git@github.com:jClarity/epump.git</developerConnection>
+        <url>https://github.com/jClarity/epump</url>
+        <tag>HEAD</tag>
+    </scm>
 </project>
